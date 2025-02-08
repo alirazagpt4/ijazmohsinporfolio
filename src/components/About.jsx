@@ -1,4 +1,4 @@
-import imgAbout from '../assets/web_developerskills.avif';
+import imgAbout from '../assets/supplychain.jpg';
 import { AREAS_OF_EXPERTISE } from '../constants';
 
 const About = () => {

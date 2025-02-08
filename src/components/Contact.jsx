@@ -23,7 +23,7 @@ const Contact = () => {
           ))}
         </div>
         <div className="text-sm mt-6 border-t border-neutral-800 pt-4">
-          <p>&copy; {new Date().getFullYear()} Ali Raza. All Rights Reserved.</p>
+          <p>&copy; {new Date().getFullYear()} &nbsp;  IJAZ MOHSIN KHOKAR.&nbsp; All Rights Reserved.</p>
         </div>
       </div>
     </footer>

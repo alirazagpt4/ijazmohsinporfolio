@@ -7,8 +7,10 @@ import DownloadResume from './components/DownloadResume'
 import Experience from './components/Experience'
 import Hero from './components/Hero'
 import Navbar from './components/Navbar'
-import Projects from './components/Projects'
-import Technologies from './components/Technologies'
+import Certificates from './components/Certificates'
+// import Technologies from './components/Education'
+import Education from './components/Education'
+import TechnicalCoursesandTraining from './components/TechnicalCoursesandTraining'
 
 
 function App() {
@@ -25,9 +27,10 @@ function App() {
       <Hero/>
       <About/>
       <DownloadResume/>
-      <Technologies/>
+      <Education/>
       <Experience/>
-      <Projects/>
+      <Certificates/>
+      <TechnicalCoursesandTraining/>
       <Contact/>
       </div>
       
