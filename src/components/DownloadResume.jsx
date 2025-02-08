@@ -2,8 +2,8 @@ const DownloadResume = () => {
     const handleDownload = () => {
     
       const link = document.createElement('a');
-      link.href = '/assets/AliRaza.pdf'; 
-      link.download = 'AliRaza.pdf'; 
+      link.href = '/assets/ijazmohsin.pdf'; 
+      link.download = 'ijazmohsin.pdf';
       link.click();
     };
   
