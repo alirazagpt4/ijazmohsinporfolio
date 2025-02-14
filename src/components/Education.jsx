@@ -1,6 +1,6 @@
 const Education = () => {
     return (
-      <div className="border-b border-neutral-800 pb-24">
+      <div  id="education" className="border-b border-neutral-800 pb-24">
         <h1 className="my-20 text-center text-4xl">Education</h1>
         <div className="flex flex-col items-start justify-center gap-8 text-lg">
           <div className="border-b border-neutral-800 pb-4">
