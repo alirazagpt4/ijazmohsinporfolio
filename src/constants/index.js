@@ -44,6 +44,12 @@ AREAS OF EXPERTISE:
 
 export const EXPERIENCES = [
   {
+    year: "January 2025 – Present",
+    role: "Operations Manager",
+    company: "Flow Energy Trading DMCC (Dubai)",
+    description:"As an Operations Manager at Flow Energy Trading DMCC, I oversee and manage daily operations to ensure seamless business processes within the energy trading sector. My responsibilities include coordinating with cross-functional teams, streamlining supply chain operations, optimizing resource allocation, and ensuring compliance with industry regulations. I play a key role in developing and implementing strategic plans, improving operational efficiency, and maintaining strong relationships with stakeholders to drive business growth and operational excellence."
+  },
+  {
     year: "October 2019 – To date",
     role: "Senior Manager Supply Chain & Operations",
     company: "Flow Petroleum (Pvt.) Ltd, Lahore",
