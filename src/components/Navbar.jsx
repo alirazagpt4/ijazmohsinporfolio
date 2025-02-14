@@ -8,7 +8,7 @@ const Navbar = () => {
   const scrollToSection = (id) => {
     const element = document.getElementById(id);
     window.scrollTo({
-      top: element.offsetTop - 80, // Offset for navbar
+      top: element.offsetTop - 80, 
       behavior: "smooth",
     });
     setMenuOpen(false); // Close menu after clicking (on mobile)
